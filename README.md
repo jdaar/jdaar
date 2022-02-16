@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jhonatan</h1>
-<h3 align="center">An innovative professional with 4 years of experience in full-stack web development, mobile and project leadership. Proficient in development with frameworks for web applications, database development, server management (Linux & Windows) and configuration and implementation of tools for DevOps (Terraform, Github Actions, Ansible, Docker and Kubernetes).</h3>
+<p align="center">An innovative professional with 4 years of experience in full-stack web development, mobile and project leadership. Proficient in development with frameworks for web applications, database development, server management (Linux & Windows) and configuration and implementation of tools for DevOps (Terraform, Github Actions, Ansible, Docker and Kubernetes).</p>
 
 - 🔭 I’m currently working on [UnalUtils](https://github.com/jdaar/UnalUtils)
 
