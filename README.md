@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hello@jasprilla.me**
 
-- 📄 Know about my experiences [Here]()
+- 📄 Know about my experiences [Here](https://drive.google.com/file/d/10s24NHH9-ItIiGF0vrPriepM8LMXIxqC/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
