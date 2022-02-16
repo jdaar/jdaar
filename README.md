@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [styled-jsx](https://github.com/vercel/styled-jsx)
 
-- 👨‍💻 All of my projects are available at [jasprilla.me](jasprilla.me)
+- 👨‍💻 All of my projects are available at [jasprilla.me](https://jasprilla.me)
 
 - 💬 Ask me about **ReactJS, NextJS, Python, Typescript, Django**
 
