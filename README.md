@@ -31,7 +31,7 @@ Soy un profesional innovador con más de un año de experiencia en **desarrollo 
 - **DevOps** con herramientas como **GitHub Actions** y **Docker**.
 
 ## Información adicional
-- **CV**: [Haga clic aquí para abrir](https://drive.google.com/file/d/17IxfO64feMWVI5dnmxQ2A0zjpgrneFAN/view?usp=sharing)
+- **CV**: [Haga clic aquí para abrir](https://drive.google.com/file/d/1dahRblrIWWmYnO3BWVL0HpS7Nc5iVCzA/view?usp=sharing)
 
 ### Cómo contactarme
 - **Correo electrónico**: hello@jasprilla.me
