@@ -15,7 +15,6 @@ I'm an innovative professional with more than one year of experience in **full-s
 
 ### How to contact me
 - **Email**: hello@jasprilla.me
-- **Cellphone**: +57 305 30 23 726
 - **Page**: [Click here to open](https://jasprilla.me)
 
 # Español 🇪🇸
@@ -35,5 +34,4 @@ Soy un profesional innovador con más de un año de experiencia en **desarrollo 
 
 ### Cómo contactarme
 - **Correo electrónico**: hello@jasprilla.me
-- **Celular**: +57 305 30 23 726
 - **Página**: [Haga clic aquí para abrir](https://jasprilla.me)
