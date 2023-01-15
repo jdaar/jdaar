@@ -4,7 +4,7 @@
 I'm an innovative professional with more than one year of experience in **full-stack web and mobile development** and **project leadership**.  
 
 ## Skills
-- **Web development** with frameworks like **NextJS**, **NestJS** and **Django**. 
+- **Web development** with frameworks like **NextJS**, **React**, **Vue**, **SvelteKit**, **Svelte**, **NestJS** and **Django**. 
 - **NoSQL** and **SQL** databases like **MongoDB**, **PostgreSQL** and **MS SQL Server**.
 - **Server management** with tools like **Ansible**, **Zabbix**, **Active Directory**, **Cockpit** and **Azure Windows Management Server**.
 - **Cloud with IAC (Infrastructure as Code)** with tools like **Terraform** and **Packer** in **GCP and AWS**.
@@ -23,7 +23,7 @@ I'm an innovative professional with more than one year of experience in **full-s
 Soy un profesional innovador con más de un año de experiencia en **desarrollo web y móvil completo** y **liderazgo de proyectos**.
 
 ## Habilidades
-- **Desarrollo web** con frameworks como **NextJS**, **NestJS** y **Django**.
+- **Desarrollo web** con frameworks como **NextJS**, **React**, **Vue**, **SvelteKit**, **Svelte**, **NestJS** y **Django**. 
 - Bases de datos **NoSQL** y **SQL** como **MongoDB**, **PostgreSQL** y **MS SQL Server**.
 - **Administración de servidores** con herramientas como **Ansible**, **Zabbix**, **Active Directory**, **Cockpit** y **Azure Windows Management Server**.
 - **Nube con IAC (Infraestructura como código)** con herramientas como **Terraform** y **Packer** en **GCP y AWS**.
