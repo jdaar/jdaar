@@ -14,7 +14,7 @@ I'm an innovative professional with more than two years of experience in **full-
 - **CV**: [Click here to open](https://drive.google.com/file/d/17IxfO64feMWVI5dnmxQ2A0zjpgrneFAN/view?usp=sharing)
 
 ### How to contact me
-- **Email**: hello@jasprilla.me
+- **Email**: jhonatandaar@gmail.com
 - **Page**: [Click here to open](https://jasprilla.me)
 
 # Español 🇪🇸
@@ -33,5 +33,5 @@ Soy un profesional innovador con más de dos años de experiencia en **desarroll
 - **CV**: [Haga clic aquí para abrir](https://drive.google.com/file/d/1dahRblrIWWmYnO3BWVL0HpS7Nc5iVCzA/view?usp=sharing)
 
 ### Cómo contactarme
-- **Correo electrónico**: hello@jasprilla.me
+- **Correo electrónico**: jhonatandaar@gmail.com
 - **Página**: [Haga clic aquí para abrir](https://jasprilla.me)
