@@ -11,10 +11,7 @@ I'm a **full-stack web and mobile developer** with more than two years of profes
 - **Cloud infraestruture management** with providers like **GCP and AWS**.
 - **DevOps** with tools like **GitHub Actions** and **Docker**.
 
-## Additional info
-- **CV**: [Click here to open](https://drive.google.com/file/d/17IxfO64feMWVI5dnmxQ2A0zjpgrneFAN/view?usp=sharing)
-
-### How to contact me
+## How to contact me
 - **Email**: hi@jhonatan.tech
 - **Page**: [Click here to open](https://jhonatan.tech)
 
@@ -31,9 +28,6 @@ Soy un **desarrollador full-stack web y movil** con mas de dos años de experien
 - **Manejo de infraestructura en la nube** en proveedores como **GCP y AWS**.
 - **DevOps** con herramientas como **GitHub Actions** y **Docker**.
 
-## Información adicional
-- **CV**: [Haga clic aquí para abrir](https://drive.google.com/file/d/1dahRblrIWWmYnO3BWVL0HpS7Nc5iVCzA/view?usp=sharing)
-
-### Cómo contactarme
+## Cómo contactarme
 - **Correo electrónico**: hi@jhonatan.tech
 - **Página**: [Haga clic aquí para abrir](https://jhonatan.tech)
