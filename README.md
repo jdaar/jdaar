@@ -26,7 +26,7 @@ Soy un profesional innovador con más de dos años de experiencia en **desarroll
 - **Desarrollo web** con frameworks como **NextJS**, **React**, **Vue**, **SvelteKit**, **Svelte**, **NestJS** y **Django**. 
 - Bases de datos **NoSQL** y **SQL** como **MongoDB**, **PostgreSQL** y **MS SQL Server**.
 - **Administración de servidores** con herramientas como **Ansible**, **Zabbix**, **Active Directory**, **Cockpit** y **Azure Windows Management Server**.
-  **Manejo de infraestructura en la nube en proveedores como **GCP y AWS**.
+- **Manejo de infraestructura en la nube** en proveedores como **GCP y AWS**.
 - **DevOps** con herramientas como **GitHub Actions** y **Docker**.
 
 ## Información adicional
