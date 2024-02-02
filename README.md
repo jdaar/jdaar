@@ -1,7 +1,8 @@
 # English 🇺🇸
 
 ## Hi, my name is **Jhonatan**
-I'm an innovative professional with more than two years of experience in **full-stack web and mobile development**.  
+
+I'm a **full-stack web and mobile developer** with more than two years of experience.  
 
 ## Skills
 - **Web development** with frameworks like **NextJS**, **React**, **Vue**, **SvelteKit**, **Svelte**, **NestJS** and **Django**. 
@@ -20,7 +21,8 @@ I'm an innovative professional with more than two years of experience in **full-
 # Español 🇪🇸
 
 ## Hola, mi nombre es **Jhonatan**
-Soy un profesional innovador con más de dos años de experiencia en **desarrollo web y móvil completo**.
+
+Soy un **desarrollador full-stack web y movil** con mas de dos años de experiencia.
 
 ## Habilidades
 - **Desarrollo web** con frameworks como **NextJS**, **React**, **Vue**, **SvelteKit**, **Svelte**, **NestJS** y **Django**. 
