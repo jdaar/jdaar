@@ -20,7 +20,7 @@ I'm an innovative professional with more than two years of experience in **full-
 # Español 🇪🇸
 
 ## Hola, mi nombre es **Jhonatan**
-Soy un profesional innovador con más de dos años de experiencia en **desarrollo web y móvil completo** y **liderazgo de proyectos**.
+Soy un profesional innovador con más de dos años de experiencia en **desarrollo web y móvil completo**.
 
 ## Habilidades
 - **Desarrollo web** con frameworks como **NextJS**, **React**, **Vue**, **SvelteKit**, **Svelte**, **NestJS** y **Django**. 
