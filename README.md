@@ -1,7 +1,7 @@
 # English 🇺🇸
 
 ## Hi, my name is **Jhonatan**
-I'm an innovative professional with more than two years of experience in **full-stack web and mobile development** and **project leadership**.  
+I'm an innovative professional with more than two years of experience in **full-stack web and mobile development**.  
 
 ## Skills
 - **Web development** with frameworks like **NextJS**, **React**, **Vue**, **SvelteKit**, **Svelte**, **NestJS** and **Django**. 
