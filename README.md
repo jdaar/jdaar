@@ -1,6 +1,6 @@
 # English 🇺🇸
 
-## Hi, my name is **Jhonatan**
+## Hi, I'm **Jhonatan**
 
 I'm a **full-stack web and mobile developer** with more than two years of professional experience.  
 
@@ -17,7 +17,7 @@ I'm a **full-stack web and mobile developer** with more than two years of profes
 
 # Español 🇪🇸
 
-## Hola, mi nombre es **Jhonatan**
+## Hola, Soy **Jhonatan**
 
 Soy un **desarrollador full-stack web y movil** con mas de dos años de experiencia profesional.
 
